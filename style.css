@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #121212;
+    color: white;
+}
+
+header {
+    background-color: #1DB954;
+    padding: 20px;
+    font-size: 24px;
+    color: black;
+}
+
+section {
+    background-color: #222;
+    margin: 20px auto;
+    padding: 20px;
+    width: 80%;
+    border-radius: 10px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+ul li {
+    background: #333;
+    margin: 5px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+ul li a {
+    color: #1DB954;
+    text-decoration: none;
+}
